@@ -20,8 +20,8 @@ End the program
 ## PROGRAM:
 ```
 #Program to swap two variables
-#Program Developed by: Mohamed Ridwan A
-#REG NO: 23003133
+#Developed by: Mohamed Ridwan A
+#RegisterNumber: 23003133
 a= eval(input())
 b=eval(input())
 
