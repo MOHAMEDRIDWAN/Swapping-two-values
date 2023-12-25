@@ -18,7 +18,8 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-'''
+```
+
 a= eval(input())
 b=eval(input())
 
@@ -27,7 +28,7 @@ b=a
 a=temp
 
 print("Swapped values are:",a,b)
-'''
+```
 
 OUTPUT:
 ![image](https://github.com/MOHAMEDRIDWAN/Swapping-two-values/assets/146993368/a844d6a8-04f5-44fd-88db-c7bbd254b066)
